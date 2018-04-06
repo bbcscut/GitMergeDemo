@@ -7,6 +7,7 @@ public class GitDemo{
 	public void testname() {
 		System.out.println("master");
 		System.out.println("branch3");
-
+		System.out.println("branch2");
+		System.out.println("new branch2");
 	}
 }

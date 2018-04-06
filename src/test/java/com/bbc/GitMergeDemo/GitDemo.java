@@ -12,5 +12,8 @@ public class GitDemo{
 		System.out.println("branch2");
 		System.out.println("newMasterupdate");
 
+
+		System.out.println("branch3");
+		System.out.println("new branch2");
 	}
 }
